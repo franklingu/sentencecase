@@ -1,0 +1,30 @@
+{
+  "name": "to-sentencecase",
+  "version": "1.0.0",
+  "description": "Convert paragraph into sentence case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklingu/sentencecase.git"
+  },
+  "keywords": [
+    "sentence case",
+    "sentencecase",
+    "sentenceCase",
+    "sentence-case",
+    "string utility",
+    "case conversion"
+  ],
+  "author": "franklingu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franklingu/sentencecase/issues"
+  },
+  "homepage": "https://github.com/franklingu/sentencecase#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
