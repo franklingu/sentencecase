@@ -3,8 +3,8 @@ sentencecase.js
 
 [![Build Status](https://travis-ci.org/franklingu/sentencecase.svg?branch=master)](https://travis-ci.org/franklingu/sentencecase)
 [![Coverage](https://codecov.io/gh/franklingu/sentencecase/branch/master/graph/badge.svg)](https://codecov.io/gh/franklingu/sentencecase)
-[![NPM version][https://img.shields.io/npm/v/sentence-case.svg?style=flat]][https://npmjs.org/package/sentencecase.js]
-[![NPM downloads][https://img.shields.io/npm/dm/sentence-case.svg?style=flat]][https://npmjs.org/package/sentencecase.js]
+[![NPM version](https://img.shields.io/npm/v/sentence-case.svg?style=flat)](https://npmjs.org/package/sentencecase.js)
+[![NPM downloads](https://img.shields.io/npm/dm/sentence-case.svg?style=flat)](https://npmjs.org/package/sentencecase.js)
 
 Small and fast library to convert a paragraph to [sentence case](https://en.wikipedia.org/wiki/Letter_case#Stylistic_or_specialised_usage).
 
