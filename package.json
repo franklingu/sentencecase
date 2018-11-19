@@ -1,5 +1,5 @@
 {
-  "name": "to-sentencecase",
+  "name": "sentencecase",
   "version": "1.0.0",
   "description": "Convert paragraph into sentence case.",
   "main": "index.js",
@@ -26,5 +26,9 @@
   "homepage": "https://github.com/franklingu/sentencecase#readme",
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
   }
 }
