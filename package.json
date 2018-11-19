@@ -11,9 +11,8 @@
     "url": "git+https://github.com/franklingu/sentencecase.git"
   },
   "keywords": [
-    "sentence case",
     "sentencecase",
-    "sentenceCase",
+    "sentence case",
     "sentence-case",
     "string utility",
     "case conversion"
