@@ -1,5 +1,5 @@
 {
-  "name": "sentencecase",
+  "name": "sentencecase.js",
   "version": "1.0.0",
   "description": "Convert paragraph into sentence case.",
   "main": "index.js",
