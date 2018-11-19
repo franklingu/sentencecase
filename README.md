@@ -1,7 +1,7 @@
 sentencecase
 ========================================
 
-[![Build Status](https://travis-ci.org/franklingu/sentencecase.svg?branch=master)](https://travis-ci.org/franklingu/sentencecase)
+[![Build Status](https://travis-ci.org/franklingu/sentencecase.svg?branch=master)](https://travis-ci.org/franklingu/sentencecase) [![codecov](https://codecov.io/gh/franklingu/sentencecase/branch/master/graph/badge.svg)](https://codecov.io/gh/franklingu/sentencecase)
 
 Small and fast library to convert a paragraph to [sentence case](https://en.wikipedia.org/wiki/Letter_case#Stylistic_or_specialised_usage).
 
